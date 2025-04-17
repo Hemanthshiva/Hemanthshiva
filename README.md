@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔧 Currently working on<br>Enhancing test selectors using AI to improve locator reliability while refactoring legacy automation frameworks to modern standards.<br><br>🤝 Looking to collaborate on<br><br>    Next-gen test automation frameworks (Web/API/Mobile)<br><br>    AI-powered testing initiatives (training models for test automation support)<br><br>    Open-source test tooling or educational content<br><br>🛠️ Looking for help with<br><br>    Optimizing AI/ML integration for test automation<br><br>    Scaling performance testing with k6 for enterprise applications<br><br>    Cloud-native testing strategies<br><br>🌱 Currently learning<br><br>    Applied AI/ML for test automation (LLMs for test generation)<br><br>    Advanced cloud testing architectures (AWS/Azure)<br><br>💬 Ask me about<br><br>    Test automation frameworks (Playwright, Selenium, etc.)<br><br>    UI/API testing best practices<br><br>    Transitioning from manual to automated testing<br><br>    AI-augmented testing workflows<br><br>⚡ Fun fact<br>I once transformed a 4-hour manual test into a 10-minute automated script – saving my team 500+ hours/year!
+I’m passionate about building intelligent test automation solutions that blend cutting-edge tools with AI innovation. Currently, I’m focused on enhancing test selectors using AI models to improve locator reliability while modernizing legacy frameworks. 
+I’d love to collaborate on automation framework development or AI-powered testing projects—especially initiatives that train models to support test automation. 
+If you’re working on performance testing at scale with k6 or exploring cloud-native testing strategies, I’d welcome the chance to exchange ideas! 
+On the learning front, I’m diving deeper into applied AI/ML for test generation and cloud-based testing architectures. Feel free to ask me about framework design (Playwright/Cypress/Selenium), UI/API testing best practices, or transitioning teams from manual to automated testing. 
+Fun fact: I once automated a 4-hour manual test into a 10-minute script, saving my team 500+ hours annually—proof that smart automation transforms productivity!
 
 
 # 💻 Tech Stack:
